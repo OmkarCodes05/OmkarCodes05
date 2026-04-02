@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning <br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with web dev<br>🌱 I’m currently learning react.js<br>💬 Ask me about....<br>
+🔭 I’m currently working on Machine Learning <br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with web dev<br>🌱 I’m currently learning NLP<br>💬 Ask me about....<br>
 
 
 ## 🌐 Socials:
